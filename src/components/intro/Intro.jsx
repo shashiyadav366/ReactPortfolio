@@ -1,5 +1,5 @@
 import "./intro.css";
-import Me from "../../img/me.png";
+//import Me from "../../img/me.png";
 
 const Intro = () => {
   return (
@@ -28,7 +28,7 @@ const Intro = () => {
           height="75"
           viewBox="0 0 75 75"
           fill="none"
-          stroke="black"
+          stroke="white"
           className="i-scroll"
           xmlns="http://www.w3.org/2000/svg"
         >
@@ -82,7 +82,7 @@ const Intro = () => {
       </div>
       <div className="i-right">
         <div className="i-bg"></div>
-        <img src={Me} alt="" className="i-img" />
+        <img src="https://i.ibb.co/h9L7K4C/IMG-20211110-214519-065.jpg" alt="" className="i-img" />
       </div>
     </div>
   );

@@ -1,5 +1,5 @@
 import "./about.css";
-import Award from "../../img/award.png";
+//import Award from "https://i.ibb.co/Rj3YNwq/IMG-20211106-202016.jpg";
 
 const About = () => {
   return (
@@ -8,7 +8,7 @@ const About = () => {
         <div className="a-card bg"></div>
         <div className="a-card">
           <img
-            src="https://images.pexels.com/photos/3585047/pexels-photo-3585047.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+            src="https://i.ibb.co/1QxHgVj/My-img-0-4.jpg"
             alt=""
             className="a-img"
           />
@@ -21,13 +21,13 @@ const About = () => {
           readable content.
         </p>
         <p className="a-desc">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat duis aute irure dolor in reprehende.
+        I am a Front End developer with industry experience building websites and web applications. I specialize in JavaScript and ReactJS.
+
+My Portfolio
+https://docs.google.com/document/d/1E07GjpgRTZK14kHuR0Y2XUi2lbq6uu_8NJ-ULTBgYec/
         </p>
         <div className="a-award">
-          <img src={Award} alt="" className="a-award-img" />
+          <img src="https://i.ibb.co/Rj3YNwq/IMG-20211106-202016.jpg" alt="" className="a-award-img" />
           <div className="a-award-texts">
             <h4 className="a-award-title">International Design Awards 2021</h4>
             <p className="a-award-desc">
