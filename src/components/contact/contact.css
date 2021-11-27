@@ -83,7 +83,7 @@ button {
 @media screen and (max-width: 768px) {
   .c-wrapper {
     flex-direction: column;
-    padding: 0px 50px;
+ 
   }
 
   .c-title {
