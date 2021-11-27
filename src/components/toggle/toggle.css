@@ -29,7 +29,11 @@
 
 @media screen and (max-width: 768px)
 {
-    .t{top: 12px;
-    right: 150px;
+.t {
+    top: 70%;
+    right: -5px;
+    background: aquamarine;
+    padding: 6px 10px 6px 0;
+    border-radius: 10px 0 0 10px;
     }
 }
