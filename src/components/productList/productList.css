@@ -30,7 +30,9 @@
   .pl {
     padding: 10px;
   }
-
+.pl-title {
+  font-size: 30px;
+}
   .pl-texts {
     width: 100%;
   }
