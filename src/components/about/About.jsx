@@ -17,14 +17,11 @@ const About = () => {
       <div className="a-right">
         <h1 className="a-title">About Me</h1>
         <p className="a-sub">
-          It is a long established fact that a reader will be distracted by the
+          It is a long established fact that a reader will be distracted<br> by the
           readable content.
         </p>
         <p className="a-desc">
-        I am a Front End developer with industry experience building websites and web applications. I specialize in JavaScript and ReactJS.
-
-My Portfolio
-https://docs.google.com/document/d/1E07GjpgRTZK14kHuR0Y2XUi2lbq6uu_8NJ-ULTBgYec/
+        I am a Front End developer with industry experience<br> building websites and web applications.<br> I specialize in JavaScript and ReactJS.
         </p>
         <div className="a-award">
           <img src="https://i.ibb.co/Rj3YNwq/IMG-20211106-202016.jpg" alt="" className="a-award-img" />
