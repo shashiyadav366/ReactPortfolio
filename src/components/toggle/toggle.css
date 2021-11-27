@@ -29,5 +29,7 @@
 
 @media screen and (max-width: 480px)
 {
-    .t{right: =52px;}
+    .t{top: 12px;
+    right: 150px;
+    }
 }
