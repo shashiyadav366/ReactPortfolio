@@ -17,13 +17,12 @@ const About = () => {
       <div className="a-right">
         <h1 className="a-title">About Me</h1>
         <p className="a-sub">
-          It is a long established fact that a reader will be </p>
-    <p> distracted by the readable content.
+          It is a long established fact that a reader will be <br> distracted by the readable content.
         </p>
         <p className="a-desc">
         I am a Front End developer with industry experience
-    </p><p>building websites and web applications.
-    </p><p>I specialize in JavaScript and ReactJS.
+    <br>building websites and web applications.
+    <br>I specialize in JavaScript and ReactJS.
         </p>
         <div className="a-award">
           <img src="https://i.ibb.co/Rj3YNwq/IMG-20211106-202016.jpg" alt="" className="a-award-img" />
