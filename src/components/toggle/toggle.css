@@ -27,7 +27,7 @@
     cursor: pointer;
 }
 
-@media screen and (max-width: 480px)
+@media screen and (max-width: 768px)
 {
     .t{top: 12px;
     right: 150px;
